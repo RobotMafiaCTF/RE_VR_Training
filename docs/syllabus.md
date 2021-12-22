@@ -21,7 +21,7 @@ This training course is designed with n00bs in mind! Our goal is not to leave pe
           - Come with burning questions and get help from people who have solved the challenges already!
   - Any questions or discussions related to the training will take place in the ```#training``` text channel
 - Set up a dev environment so you can participate in labs
-  - Find information on how to set up your environment in the environment_instructions.md file
+  - Find information on how to set up your environment in the EnvSetup.md file
 
 ## RESOURCES
 You can find all resources on the RobotMafia gitlab, here: https://github.com/RobotMafiaCTF/RE_VR_Training
