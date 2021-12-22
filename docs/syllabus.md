@@ -13,8 +13,7 @@ This training course is designed with n00bs in mind! Our goal is not to leave pe
 
 ### How to participate
 - Join the RobotMafia Discord Server
-  - Training sessions will take place in the ```#training``` voice channel
-    - Join video sessions weekly held on Discord
+  - Training sessions will take place weekly in the ```#training``` voice channel on the Robot Mafia Discord
       - Time
         - Regular sessions: Thursdays at 4:30 PM EST
           - These sessions will involve someone teaching a specific topic or someone will walk through challenges assigned the previous weeks
