@@ -7,7 +7,7 @@ This training course is designed with n00bs in mind! Our goal is not to leave pe
   - Please do not be afraid to ask for more help/time to solve challenges/clarification in the discord. We are here to help.
   - Please keep notes as you go through the training about how we can make this training better for you!
 - Veteran RE/VR folks: 
-  - We really <3 your help/input/participation, but more importantly your patience in this learning process!
+  - We really <3 your help/input/participation, and most importantly your patience in this learning process!
   - Feel free to jump into any session, as we would love to hear your war stories, and be sponges of your knowledge.
   - If you are interested in teaching a topic in the course, leading a walkthrough, or faciliating an office hours session, please reach out to maryslamb on Discord.
 
