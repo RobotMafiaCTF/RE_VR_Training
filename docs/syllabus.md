@@ -33,7 +33,7 @@ You can find all resources on the RobotMafia gitlab, here: https://github.com/Ro
 ## SCHEDULE
 *NOTE- Schedule subject to change!*
 Date | Topic
-:----- | :----:
+:----- | :-----
 December 2021   | 	Environment Setup
 January 10  | Intro to x86 Part 1  
 January 17 | Intro to x86 Part 2
