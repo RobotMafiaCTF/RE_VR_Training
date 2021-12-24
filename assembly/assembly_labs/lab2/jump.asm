@@ -11,18 +11,19 @@ section .text
 
 
 exit:
+	; exit label reached, ; write goodbye world with write syscall
 	mov eax, 4
 	mov ebx, 1
 	mov ecx, goodbye
 	mov dl, [goodbye_size]
 	int 0x80
 	
-	mov al, 1 ; move syscall number into eax
+	mov al, 1 ; move exit syscall number into eax
 	mov ebx, 0 ; load error code as param 1
 	int 0x80 ; interrupt/trap to call the syscall
 
 _start: 
-
+	; write hello world with write syscall
 	mov eax, 4
 	mov ebx, 1
 	mov ecx, hello
