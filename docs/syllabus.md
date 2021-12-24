@@ -33,6 +33,7 @@ You can find all resources on the RobotMafia gitlab, here: https://github.com/Ro
 
 ## SCHEDULE
 *NOTE- Schedule subject to change!*
+
 The training schedule is split into 3 portions:
 1. Intro to x86 and analysis tools
 2. Intro to RE
