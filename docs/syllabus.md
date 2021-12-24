@@ -21,7 +21,8 @@ This training course is designed with n00bs in mind! Our goal is not to leave pe
           - Come with burning questions and get help from people who have solved the challenges already!
   - Any questions or discussions related to the training will take place in the ```#training``` text channel
 - Set up a dev environment so you can participate in labs
-  - Find information on how to set up your environment in the EnvSetup.md file
+  - Find information on how to set up your environment in the ```EnvSetup.md``` file
+    - This file might get updated as the course progresses and we move to new topics in the course!
 
 ## RESOURCES
 You can find all resources on the RobotMafia gitlab, here: https://github.com/RobotMafiaCTF/RE_VR_Training
@@ -32,6 +33,12 @@ You can find all resources on the RobotMafia gitlab, here: https://github.com/Ro
 
 ## SCHEDULE
 *NOTE- Schedule subject to change!*
+The training schedule is split into 3 portions:
+1. Intro to x86 and analysis tools
+2. Intro to RE
+3. Intro to VR
+
+Please feel free to join as we progress in the course to topics that you are more interested in. We would like for this training to be collaborative, and while the Thursday sessions will be more structured, we would love your presence and input! Also if you already know the topic, please feel free to assist with office hours for the week!
 Date | Topic
 :----- | :-----
 December 2021   | 	Environment Setup
