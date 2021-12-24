@@ -1,4 +1,6 @@
-There are 2 paths to take for setting up your development machine. Yuo can do it yourself using jsut the list of requirements found below, or you can follow the detailed instructions below!
+# Development Environment Instructions
+
+There are 2 paths to take for setting up your development machine. You can set up your own machine yourself but make sure to fulfill the software requirements below. There are also detailed instructions below if you'd prefer a step by step!
 
 Requirements:
 
