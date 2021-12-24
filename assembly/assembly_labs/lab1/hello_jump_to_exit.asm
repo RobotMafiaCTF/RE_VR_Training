@@ -13,10 +13,11 @@ exit:
 
 _start: 
 
-	mov eax, 4
+	; print hello world using write syscall
+	mov eax, 4 
 	mov ebx, 1
 	mov ecx, hello
 	mov dl, [hello_size]
 	int 0x80
-	jmp exit
+	jmp exit ; jump to the exit label to exit the program
 
