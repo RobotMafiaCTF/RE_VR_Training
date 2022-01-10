@@ -7,7 +7,7 @@ Requirements:
 	Virtualization Software: VMware, Virtual Box
 	Ubuntu 20.04 Virtual Machine
 	Software:
-		Java 11
+		Java 11 JDK/JRE
 		Ghidra
 		Text Editor of your choice- Vim, Sublime, Notepad++
 		python3
@@ -54,7 +54,6 @@ Detailed Instructions for Dev VM Setup for X86 portion of the course:
 					- java -version
 				- Next Install OpenJDK 11 JDK and the OpenJDK 11 JRE
 					- sudo apt install openjdk-11-jdk openjdk-11-jre
-				- sudo apt install jre TODO
 			- open a terminal and navigate to where you unzipped ghidra
 			- start ghidra
 				- ./ghidraRun
