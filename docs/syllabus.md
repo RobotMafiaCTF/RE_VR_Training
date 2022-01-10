@@ -46,7 +46,7 @@ December 2021   | 	Environment Setup
 January 10  | Intro to x86 Part 1  
 January 17 | Intro to x86 Part 2
 January 24  | Intro to x86 Part 3 
-January 31  | Intro to Ghidra
+January 31  | Into to x86 Reserved
 February | Intro to RE
 March  | Intro to VR- MBE 
 April | Intro to VR- MBE
