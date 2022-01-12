@@ -52,8 +52,6 @@ Detailed Instructions for Dev VM Setup for X86 portion of the course:
 				- sudo apt install default-jre openjdk-11-jdk openjdk-11-jre
 				- Verify that you have install java
 					- java -version
-				- Next Install OpenJDK 11 JDK and the OpenJDK 11 JRE
-					- sudo apt install openjdk-11-jdk openjdk-11-jre
 			- open a terminal and navigate to where you unzipped ghidra
 			- start ghidra
 				- ./ghidraRun
